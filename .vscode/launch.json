@@ -1,0 +1,567 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BOJ_10867",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_10867",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_10876",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_10876",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_5430",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_5430",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_15686",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_15686",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_14502",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_14502",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_1697",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_1697",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_1744",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_1744",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_1339",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_1339",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "보석",
+            "request": "launch",
+            "mainClass": "baekjoon.보석",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_1202",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_1202",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_10162",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_10162",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_5585",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_5585",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_10610",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_10610",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_1946",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_1946",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_1715",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_1715",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_16953",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_16953",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_1520",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_1520",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_15486",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_15486",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_11722",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_11722",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_11726",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_11726",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_2579",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_2579",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_9095",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_9095",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_1463",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_1463",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "피보나치수2",
+            "request": "launch",
+            "mainClass": "baekjoon.피보나치수2",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "DP_6",
+            "request": "launch",
+            "mainClass": "codetest.DP.DP_6",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "DP_5",
+            "request": "launch",
+            "mainClass": "codetest.DP.DP_5",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "DP_4",
+            "request": "launch",
+            "mainClass": "codetest.DP.DP_4",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "DP_3",
+            "request": "launch",
+            "mainClass": "codetest.DP.DP_3",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "DP_2",
+            "request": "launch",
+            "mainClass": "codetest.DP.DP_2",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "DP_1",
+            "request": "launch",
+            "mainClass": "codetest.DP.DP_1",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "두용액",
+            "request": "launch",
+            "mainClass": "baekjoon.두용액",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "가장긴증가하는부분수열2",
+            "request": "launch",
+            "mainClass": "baekjoon.가장긴증가하는부분수열2",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "숫자카드",
+            "request": "launch",
+            "mainClass": "baekjoon.숫자카드",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "예산",
+            "request": "launch",
+            "mainClass": "baekjoon.예산",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "특정수의개수",
+            "request": "launch",
+            "mainClass": "codetest.이진탐색.특정수의개수",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "떡볶이떡",
+            "request": "launch",
+            "mainClass": "codetest.이진탐색.떡볶이떡",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "두배열의원소교체",
+            "request": "launch",
+            "mainClass": "codetest.정렬.두배열의원소교체",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "sort",
+            "request": "launch",
+            "mainClass": "codetest.정렬.sort",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "토마토2",
+            "request": "launch",
+            "mainClass": "baekjoon.토마토2",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "단지번호붙이기",
+            "request": "launch",
+            "mainClass": "baekjoon.단지번호붙이기",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "섬의개수",
+            "request": "launch",
+            "mainClass": "baekjoon.섬의개수",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "이분그래프",
+            "request": "launch",
+            "mainClass": "baekjoon.이분그래프",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "Debug Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ATM",
+            "request": "launch",
+            "mainClass": "baekjoon.ATM",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "DFS와BFS",
+            "request": "launch",
+            "mainClass": "baekjoon.DFS와BFS",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "그룹단어체커",
+            "request": "launch",
+            "mainClass": "baekjoon.그룹단어체커",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "동전0",
+            "request": "launch",
+            "mainClass": "baekjoon.동전0",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "로프",
+            "request": "launch",
+            "mainClass": "baekjoon.로프",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "미로탐색",
+            "request": "launch",
+            "mainClass": "baekjoon.미로탐색",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "바이러스",
+            "request": "launch",
+            "mainClass": "baekjoon.바이러스",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "보물",
+            "request": "launch",
+            "mainClass": "baekjoon.보물",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "설탕배달",
+            "request": "launch",
+            "mainClass": "baekjoon.설탕배달",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "수들의합",
+            "request": "launch",
+            "mainClass": "baekjoon.수들의합",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "안전영역",
+            "request": "launch",
+            "mainClass": "baekjoon.안전영역",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "연결요소의개수",
+            "request": "launch",
+            "mainClass": "baekjoon.연결요소의개수",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "잃어버린괄호",
+            "request": "launch",
+            "mainClass": "baekjoon.잃어버린괄호",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "토마토",
+            "request": "launch",
+            "mainClass": "baekjoon.토마토",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "회의실배정",
+            "request": "launch",
+            "mainClass": "baekjoon.회의실배정",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "basic.Basic",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "미로탈출",
+            "request": "launch",
+            "mainClass": "codetest.BFS.미로탈출",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "dfs",
+            "request": "launch",
+            "mainClass": "codetest.DFS.dfs",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "음료수얼려먹기",
+            "request": "launch",
+            "mainClass": "codetest.DFS.음료수얼려먹기",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "queue",
+            "request": "launch",
+            "mainClass": "codetest.queue",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "stack",
+            "request": "launch",
+            "mainClass": "codetest.stack",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "문자열재정렬",
+            "request": "launch",
+            "mainClass": "codetest.구현.문자열재정렬",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "상하좌우",
+            "request": "launch",
+            "mainClass": "codetest.구현.상하좌우",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "시각",
+            "request": "launch",
+            "mainClass": "codetest.구현.시각",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "왕실의나이트",
+            "request": "launch",
+            "mainClass": "codetest.구현.왕실의나이트",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "거스름돈",
+            "request": "launch",
+            "mainClass": "codetest.그리디.거스름돈",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "곱하기혹은더하기",
+            "request": "launch",
+            "mainClass": "codetest.그리디.곱하기혹은더하기",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "모험가길드",
+            "request": "launch",
+            "mainClass": "codetest.그리디.모험가길드",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "일이될때까지",
+            "request": "launch",
+            "mainClass": "codetest.그리디.일이될때까지",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "example.Main",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "main2",
+            "request": "launch",
+            "mainClass": "example.main2",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "배열_입출력",
+            "request": "launch",
+            "mainClass": "example.배열_입출력",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "배열입출력",
+            "request": "launch",
+            "mainClass": "example.배열입출력",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "부분집합",
+            "request": "launch",
+            "mainClass": "example.부분집합",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "숫자카드2",
+            "request": "launch",
+            "mainClass": "example.숫자카드2",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "십자가출력",
+            "request": "launch",
+            "mainClass": "example.십자가출력",
+            "projectName": "자바 알고리즘_688f65ef"
+        },
+        {
+            "type": "java",
+            "name": "재귀호출",
+            "request": "launch",
+            "mainClass": "example.재귀호출",
+            "projectName": "자바 알고리즘_688f65ef"
+        }
+    ]
+}
