@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BOJ_11286",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_11286",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_11279",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_11279",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_1927",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_1927",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
             "name": "BOJ_10867",
             "request": "launch",
             "mainClass": "baekjoon.BOJ_10867",
