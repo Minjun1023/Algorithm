@@ -40,9 +40,8 @@ public class BOJ_11000 {
         endTime = m.end;
         if (!q.isEmpty() && q.peek() <= m.start) {
             q.poll();
-        } else {
-            q.add(endTime);
         }
+        q.add(endTime);
        }
        System.out.println(q.size());
     } 

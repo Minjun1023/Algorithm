@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BOJ_11000",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_11000",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "강의실배정",
+            "request": "launch",
+            "mainClass": "baekjoon.강의실배정",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_2630",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_2630",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "이차원배열과연산",
+            "request": "launch",
+            "mainClass": "baekjoon.이차원배열과연산",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
             "name": "BOJ_17140",
             "request": "launch",
             "mainClass": "baekjoon.BOJ_17140",
