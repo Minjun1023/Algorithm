@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DFS와BFS",
+            "request": "launch",
+            "mainClass": "baekjoon.DFS와BFS",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_1260",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_1260",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "RGB거리",
+            "request": "launch",
+            "mainClass": "baekjoon.RGB거리",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "배낭",
+            "request": "launch",
+            "mainClass": "baekjoon.배낭",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
             "name": "BOJ_12865",
             "request": "launch",
             "mainClass": "baekjoon.BOJ_12865",
