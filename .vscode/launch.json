@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BOJ_2156",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_2156",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "회의실배정",
+            "request": "launch",
+            "mainClass": "baekjoon.회의실배정",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
             "name": "DFS와BFS",
             "request": "launch",
             "mainClass": "baekjoon.DFS와BFS",
