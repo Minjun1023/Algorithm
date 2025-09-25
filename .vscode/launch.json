@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BOJ_1213",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_1213",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_1515",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_1515",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
             "name": "BOJ_20920",
             "request": "launch",
             "mainClass": "baekjoon.BOJ_20920",
