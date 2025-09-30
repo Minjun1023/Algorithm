@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BOJ_1522",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_1522",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_20291",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_20291",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "단어뒤집기2",
+            "request": "launch",
+            "mainClass": "baekjoon.단어뒤집기2",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_17413",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_17413",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
             "name": "BOJ_1213",
             "request": "launch",
             "mainClass": "baekjoon.BOJ_1213",
