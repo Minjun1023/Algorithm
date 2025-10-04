@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BOJ_20546",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_20546",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_21918",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_21918",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_14467",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_14467",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "문자열교환",
+            "request": "launch",
+            "mainClass": "baekjoon.문자열교환",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "팰린드롬",
+            "request": "launch",
+            "mainClass": "baekjoon.팰린드롬",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
             "name": "BOJ_1522",
             "request": "launch",
             "mainClass": "baekjoon.BOJ_1522",
