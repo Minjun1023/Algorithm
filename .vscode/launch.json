@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BOJ_1913",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_1913",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "농구",
+            "request": "launch",
+            "mainClass": "baekjoon.농구",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_2852",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_2852",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "크로스",
+            "request": "launch",
+            "mainClass": "baekjoon.크로스",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_9017",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_9017",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "기상캐스터",
+            "request": "launch",
+            "mainClass": "baekjoon.기상캐스터",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_10709",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_10709",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "덩치",
+            "request": "launch",
+            "mainClass": "baekjoon.덩치",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_7568",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_7568",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
             "name": "BOJ_20546",
             "request": "launch",
             "mainClass": "baekjoon.BOJ_20546",

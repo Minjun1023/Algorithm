@@ -58,7 +58,7 @@ public class BOJ_20546 {
                 s.buy_stock(s.money / arr[i], arr[i]);
             }
         }
-        return (s.cnt * arr[13] + s.money);
+        return (s.cnt * arr[13])+ s.money;
     }
 
     public static int TIMING() {
