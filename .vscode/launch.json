@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BOJ_3986",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_3986",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "stack",
+            "request": "launch",
+            "mainClass": "codetest.stack",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "포켓몬",
+            "request": "launch",
+            "mainClass": "baekjoon.포켓몬",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "연결요소",
+            "request": "launch",
+            "mainClass": "baekjoon.연결요소",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "토마토",
+            "request": "launch",
+            "mainClass": "baekjoon.토마토",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_1138",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_1138",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "BOJ_20006",
+            "request": "launch",
+            "mainClass": "baekjoon.BOJ_20006",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "랭킹전대기열",
+            "request": "launch",
+            "mainClass": "baekjoon.랭킹전대기열",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
+            "name": "달팽이",
+            "request": "launch",
+            "mainClass": "baekjoon.달팽이",
+            "projectName": "자바 알고리즘_890541d2"
+        },
+        {
+            "type": "java",
             "name": "BOJ_1913",
             "request": "launch",
             "mainClass": "baekjoon.BOJ_1913",
