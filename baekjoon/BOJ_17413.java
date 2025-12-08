@@ -22,7 +22,7 @@ public class BOJ_17413 {
                 }
                 sb.append(s.charAt(i));
             }
-            // > 를 만나게 되는 경우 이전까지의 문자열들 그대로 출력
+            // > 를 만나게 되는 경우 이전까n지의 문자열들 그대로 출력
             else if (s.charAt(i) == '>') {
                 check = false;
                 sb.append(s.charAt(i));
