@@ -12,23 +12,24 @@ public class Main {
         int n = Integer.parseInt(st.nextToken());
         int k = Integer.parseInt(st.nextToken());
 
-        Deque<Integer> dq = new LinkedList<>();
-        sb.append("<");
+        ArrayList<Integer> list = new ArrayList<>();
+
         for (int i = 1; i <= n; i++) {
-            dq.offerLast(i);
+            list.add(i);
         }
 
-        while (!dq.isEmpty()) {
-            for (int i = 0; i < k-1; i++) {
-                dq.offerLast(dq.pollFirst());
-            }
-            sb.append(dq.pollFirst());
+        sb.append("<");
+        int index = 0;
 
-            if (!dq.isEmpty()) sb.append(", ");
+        while (!list.isEmpty()) {
+            index = (index + k - 1) % list.size();
+            sb.append(list.remove(index));
+            if (!list.isEmpty()) sb.append(", ");
         }
 
         sb.append(">");
         System.out.print(sb);
+
     }
     
 }
