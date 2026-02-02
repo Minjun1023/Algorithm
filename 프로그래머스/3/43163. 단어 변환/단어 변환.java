@@ -1,45 +1,60 @@
+import java.util.*;
+
 class Solution {
     
-    public boolean[] visited;
-    public int answer = 0;
-    
     public int solution(String begin, String target, String[] words) {
-        
-        visited = new boolean[words.length];
-        dfs(begin, target, words, 0);
-        
-        return answer;
-    }
-    
-    public void dfs(String cur, String target, String[] words, int cnt) {
-        // 현재 값이 타겟이면
-        if (cur.equals(target)) {
-            answer = cnt;
-            return;
-        }
+        Queue<Integer> q = new LinkedList<>();
+        boolean[] visited = new boolean[words.length];
         
         for (int i = 0; i < words.length; i++) {
-            // 이미 방문했을 경우
-            if (visited[i]) continue;
+            String str = words[i];
             
-            // 변환 가능한 경우
-            if (canConvert(cur, words[i])) {
+            if (canConvert(begin, str)) {
                 visited[i] = true;
-                dfs(words[i], target, words, cnt + 1);
-                visited[i] = false;
+                q.add(i);
+                break;
             }
         }
+        
+        int cnt = 1;
+        
+        while (!q.isEmpty()) {
+            int size = q.size();
+            
+            while (size --> 0) {
+                String cur = words[q.poll()];
+                
+                if (cur.equals(target)) {
+                    return cnt;   
+                }
+                
+                for (int i = 0; i < words.length; i++) {
+                    if (visited[i] == true) continue;
+                    
+                    String str = words[i];
+                    
+                    if (canConvert(cur, str)) {
+                        visited[i] = true;
+                        q.add(i);
+                    }               
+                }
+            }
+            cnt++;
+        }
+        return 0;
     }
     
-    public boolean canConvert(String from, String to) {
+    public boolean canConvert (String from, String to) {
         int cnt = 0;
+        
         for (int i = 0; i < from.length(); i++) {
-            // 알파벳 일치할 경우 카운트
-            if (from.charAt(i) == to.charAt(i)) {
-                cnt++;
-            }
+            if (from.charAt(i) == to.charAt(i)) cnt++;
         }
-        // 알파벳 2개 이상 일치할 경우 참
-        return from.length() == cnt + 1 ? true : false;
+        
+        if (from.length() == cnt + 1) {
+            return true;
+        } else {
+            return false;
+        }
     }
 }
