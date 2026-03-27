@@ -4,15 +4,15 @@ class Solution {
     public boolean solution(String[] phone_book) {
         boolean answer = true;
         
-        Map<String, Integer> map = new HashMap<>();
+        Set<String> set = new HashSet<>();
         
-        for (int i = 0; i < phone_book.length; i++) {
-            map.put(phone_book[i], i);
+        for (String phone : phone_book) {
+            set.add(phone);
         }
         
-        for (int i = 0; i < phone_book.length; i++) {
-            for (int j = 0; j < phone_book[i].length(); j++) {
-                if (map.containsKey(phone_book[i].substring(0, j))) answer = false;
+        for (String phone : phone_book) {
+            for (int i = 1; i < phone.length(); i++) {
+                if (set.contains(phone.substring(0, i))) answer = false;
             }
         }
         
